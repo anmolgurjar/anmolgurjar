@@ -60,8 +60,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/indrasuthar07?tab=overview">
-    <img src="https://streak-stats.demolab.com/?user=indrasuthar07&amp;theme=tokyonight&amp;hide_border=true" width="495" alt="Indra's total contributions, current streak, and longest streak" />
+  <a href="https://github.com/anmolgurjar?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=anmolgurjar&amp;theme=tokyonight&amp;hide_border=true" width="495" alt="Anmol's total contributions, current streak, and longest streak" />
   </a>
 </p>
 
