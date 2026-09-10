@@ -27,7 +27,7 @@
 <br />
 
 <p align="center">
-  I'm <strong>Indra</strong>, I work with the <strong>MERN stack</strong> and
+  I'm <strong>Anmol</strong>, I work with the <strong>MERN stack</strong> and
   I'm exploring how <strong>natural language processing</strong> and
   <strong>generative AI</strong> can become part of what I build.
 </p>
@@ -50,8 +50,8 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/indrasuthar07">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrasuthar07&amp;theme=tokyonight&amp;name=Indra%20Suthar" width="700" alt="Indra's GitHub contribution history and activity summary" />
+  <a href="https://github.com/anmolgurjar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrasuthar07&amp;theme=tokyonight&amp;name=Anmol%20Gurjar" width="700" alt="Indra's GitHub contribution history and activity summary" />
   </a>
 </p>
 
